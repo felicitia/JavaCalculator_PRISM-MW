@@ -1,4 +1,4 @@
-JavaCalculator
+JavaCalculator-PRISM-MW
 ==============
 
 a "hello world " PRISM-MW demo for simple java calculator, including a distributed calculator using Client-Server architecture style.
